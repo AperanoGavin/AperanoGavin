@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **audesandrine6@gmail.com@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alo%C3%AFs-marcellin/]([https://www.linkedin.com/in/alo%C3%AFs-marcellin/](https://www.linkedin.com/in/gavin-aperano-2b91aa208/))
+- 📄 Know about my experiences [https://www.linkedin.com/in/gavin-aperano-2b91aa208/]([https://www.linkedin.com/in/alo%C3%AFs-marcellin/](https://www.linkedin.com/in/gavin-aperano-2b91aa208/))
 
 - ⚡ Fun fact **Fact Fun**
 
