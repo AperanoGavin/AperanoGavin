@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/gavin-aperano-2b91aa208/">linkeldin profil</a>
 
-- ⚡ Fun fact **Fact Fun**
 
 
 <h3 align="left">Languages and Tools:</h3>
