@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **PHP,JS,SYMFONY,DOCKER,PYTHON,REACT**
 
-- 📫 How to reach me **audesandrine6@gmail.com@gmail.com**
+- 📫 How to reach me **audesandrine6com@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gavin-aperano-2b91aa208/]([https://www.linkedin.com/in/alo%C3%AFs-marcellin/](https://www.linkedin.com/in/gavin-aperano-2b91aa208/))
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/gavin-aperano-2b91aa208/">linkeldin profil</a>
 
 - ⚡ Fun fact **Fact Fun**
 
