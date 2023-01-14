@@ -20,3 +20,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gavinaperano"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="magnuscode" /></a></p><br><br>
+
+<p><a href="https://www.youtube.com/channel/UCcBaoqamP8pn9_sJIyL8ULQ"> <img align="left" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" height="50" width="210" alt="magnuscode" /></a></p><br><br>
