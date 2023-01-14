@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magnusdot" alt="magnusdot" /></a> </p>
 
-- 🔭 I’m currently working on **a Crypto Trading Bot**
-
 - 👯 I’m looking to collaborate on **Any project**
 
-- 💬 Ask me about **PHP,JS,LARAVEL,SYMFONY,REACT**
+- 💬 Ask me about **PHP,JS,SYMFONY,DOCKER,PYTHON,REACT**
 
-- 📫 How to reach me **alois.marcellin@gmail.com**
+- 📫 How to reach me **audesandrine6@gmail.com@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alo%C3%AFs-marcellin/](https://www.linkedin.com/in/alo%C3%AFs-marcellin/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/alo%C3%AFs-marcellin/]([https://www.linkedin.com/in/alo%C3%AFs-marcellin/](https://www.linkedin.com/in/gavin-aperano-2b91aa208/))
 
 - ⚡ Fun fact **Fact Fun**
 
