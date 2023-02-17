@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AperanoGavin&theme=monokai" alt="AperanoGavin" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Any project**
-
-- 💬 Ask me about **PHP,JS,SYMFONY,DOCKER,PYTHON,REACT**
-
-- 📫 How to reach me **audesandrine6com@gmail.com**
-
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/gavin-aperano-2b91aa208/">linkeldin profil</a>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
